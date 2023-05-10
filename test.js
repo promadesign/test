@@ -2,6 +2,6 @@
 
 
 
-function test(){
+function function_from_git_repo(){
   alert('test')
 }
